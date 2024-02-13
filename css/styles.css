@@ -38,9 +38,8 @@ button{
     line-height: 1.50;
     letter-spacing: 0.02em;   
 }
-
-.menu-link:hover,
-.menu-link:focus {
+.menu-item > .menu-link:hover,
+.menu-item > .menu-link:focus {
     color: #404BBF;
     }
 .menu-link,
