@@ -68,19 +68,16 @@ button{
     background-color: #2e2f42;
 }
  .title {
+    text-align: center;
     font-size:56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #fff;
  }   
  .button {
-    font-weight:500;
-    line-height:1.5;
-    letter-spacing:0.04em;
-    border-radius: 4px;
-    width: 169px;
-    height: 56px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     color:#fff;
     background-color: #4d5ae5;
  }
@@ -127,6 +124,7 @@ background: #f4f4fd;
 }
 
 .team-title {
+    text-align: center;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -134,11 +132,7 @@ background: #f4f4fd;
 }
 
 .team-list-item {
-    border-radius: 0 0 4px 4px;
-    width: 264px;
-    height: 380px;
-    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
-    background: #fff;
+   background-color: #fff;
 }
 
 .team-name {
@@ -189,7 +183,7 @@ background: #f4f4fd;
 
 /* ======== Footer ======== */
 .contacts{    
-    background: #2e2f42;
+    background-color: #2e2f42;
 }
 .logo-footer-part{
     color: #f4f4fd;
