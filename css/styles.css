@@ -31,18 +31,20 @@ button{
 .logo-part {
     color: #2E2F42;
 }
-.menu-item > .menu-link {
+
+.menu-item > .menu-link a {
     color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.50;
     letter-spacing: 0.02em;   
 }
-.menu-item > .menu-link:hover,
-.menu-item > .menu-link:focus {
+.menu-link:hover,
+.menu-link:focus {
     color: #404BBF;
     }
-.menu-item > .menu-link > .active {
+.menu-link
+.active {
     color: #404BBF;
 }
 .address {
